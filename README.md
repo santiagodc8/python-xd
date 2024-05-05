@@ -1,2 +1,2 @@
 # python-xd
-Lógica de programación en Python
+Lógica de programación en Python con el curso de MoureDev en [Youtube](https://www.youtube.com/watch?v=TdITcVD64zI&t=4522s&ab_channel=MoureDevbyBraisMoure) y [GitHub](https://github.com/mouredev/roadmap-retos-programacion)
